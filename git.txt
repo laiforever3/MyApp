@@ -1,0 +1,5 @@
+﻿他趣git：   http://git.internal.taqu.cn/android/taqu.git
+vpn        ie访问 https://as.taqu.cn
+用户名：赖学军
+密码：Haibao1#
+登陆以后有个网络扩展的“启用”按钮
